@@ -1,0 +1,11 @@
+{
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "files.associations": {
+        "bitset": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "set": "cpp"
+    }
+}
