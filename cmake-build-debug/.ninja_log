@@ -1,0 +1,24 @@
+# ninja log v6
+8	341	1727995819484820588	CMakeFiles/ProblemSolving.dir/Algoritmer++/lenstr_2.cpp.o	111e1bbb14452b7d
+15	236	1727995787883125802	CMakeFiles/ProblemSolving.dir/Algoritmer++/BST.cpp.o	138cf5c5da196fa
+345	863	1727995819821878894	CMakeFiles/ProblemSolving.dir/Algoritmer++/newlabsearch.cpp.o	aa523118223621f0
+4	74	1728144064736785925	build.ninja	733c9f49d40f04e4
+712	1329	1727995788580274982	CMakeFiles/ProblemSolving.dir/Algoritmer++/Dijkstra.cpp.o	7042867ccf896950
+14	768	1727995787882373922	CMakeFiles/ProblemSolving.dir/Algoritmer++/2022-2.cpp.o	53fae7c8b4c52614
+16	629	1727995993927964591	CMakeFiles/ProblemSolving.dir/Algoritmer++/Swap.cpp.o	526eb613edce8405
+342	862	1727995819818316873	CMakeFiles/ProblemSolving.dir/Algoritmer++/newlabsearch_2.cpp.o	6627c7b2b6f93cd3
+14	237	1727995787882963467	CMakeFiles/ProblemSolving.dir/Algoritmer++/BST_2.cpp.o	5c6959c233abf18e
+14	712	1727995787882797758	CMakeFiles/ProblemSolving.dir/Algoritmer++/anothaOne.cpp.o	919b30cf2b469a1c
+14	706	1727995787882620632	CMakeFiles/ProblemSolving.dir/Algoritmer++/anothaOne_2.cpp.o	a3e2cb794e6ab6e9
+8	345	1727995819484967422	CMakeFiles/ProblemSolving.dir/Algoritmer++/lenstr.cpp.o	fb9f21c5510e8b49
+8	419	1727995828439172993	CMakeFiles/ProblemSolving.dir/Algoritmer++/SepStr.cpp.o	c071d2240ae04ada
+711	1334	1727995788579286601	CMakeFiles/ProblemSolving.dir/Algoritmer++/Dijkstra_2.cpp.o	ac200cbf5df7fd08
+626	1032	1727995994538125188	CMakeFiles/ProblemSolving.dir/Algoritmer++/test_2.cpp.o	4785d0e2bf955262
+8	391	1727995828439023700	CMakeFiles/ProblemSolving.dir/Algoritmer++/SepStr_2.cpp.o	824235438a9b3a2c
+16	625	1727995993927545588	CMakeFiles/ProblemSolving.dir/Algoritmer++/Swap_2.cpp.o	5fd96ade6005388b
+8	540	1727995824463029580	CMakeFiles/ProblemSolving.dir/Algoritmer++/OnesAndZeros_2.cpp.o	250a17ccf86f9b06
+419	730	1727995828850004529	CMakeFiles/ProblemSolving.dir/Algoritmer++/str(n)cpy.cpp.o	a433b53a6ec9cfe7
+13	771	1727995787881260790	CMakeFiles/ProblemSolving.dir/Algoritmer++/2022-2_2.cpp.o	c17a4d29d4a71f21
+9	551	1727995824463610542	CMakeFiles/ProblemSolving.dir/Algoritmer++/OnesAndZeros.cpp.o	1075cb936cad81df
+392	712	1727995828822371822	CMakeFiles/ProblemSolving.dir/Algoritmer++/str(n)cpy_2.cpp.o	264381399916736c
+629	1032	1727995994540519994	CMakeFiles/ProblemSolving.dir/Algoritmer++/test.cpp.o	9b0905044413386d
