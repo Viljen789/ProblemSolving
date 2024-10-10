@@ -1,6 +1,6 @@
 int odd(string s, int i){
     int l = i-1, r = i+1;
-    int tot = 0;
+    int tot = 1;
     while(l>=0 && r<=(s.size()-1)){
         if(s[l--]==s[r++])tot++;
         else break;
@@ -20,7 +20,7 @@ int even(string s, int i){
 class Solution {
 public:
     int countSubstrings(string s) {
-        int tot = s.size();
+        int tot = 0;
         for(int i = 0; i<s.size(); i++){
             tot += even(s, i);
             tot += odd(s, i);
