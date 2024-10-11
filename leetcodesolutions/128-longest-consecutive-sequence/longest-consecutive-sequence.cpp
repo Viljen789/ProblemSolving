@@ -1,7 +1,3 @@
-int max(int a, int b){
-    return (a>b?a:b);
-}
-
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
@@ -13,7 +9,7 @@ public:
             int k = nums[i];
             int it = 1;
             if(um[k+1]&&!um[k-1])while(um[k+it])it++;
-            tot = max(tot, it);
+            tot = tot*(tot>it)+it*(it>=tot);
         }
         return tot;
     }
