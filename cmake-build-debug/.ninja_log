@@ -2,7 +2,7 @@
 8	341	1727995819484820588	CMakeFiles/ProblemSolving.dir/Algoritmer++/lenstr_2.cpp.o	111e1bbb14452b7d
 15	236	1727995787883125802	CMakeFiles/ProblemSolving.dir/Algoritmer++/BST.cpp.o	138cf5c5da196fa
 345	863	1727995819821878894	CMakeFiles/ProblemSolving.dir/Algoritmer++/newlabsearch.cpp.o	aa523118223621f0
-4	74	1728144064736785925	build.ninja	733c9f49d40f04e4
+4	74	1728732321925423148	build.ninja	733c9f49d40f04e4
 712	1329	1727995788580274982	CMakeFiles/ProblemSolving.dir/Algoritmer++/Dijkstra.cpp.o	7042867ccf896950
 14	768	1727995787882373922	CMakeFiles/ProblemSolving.dir/Algoritmer++/2022-2.cpp.o	53fae7c8b4c52614
 16	629	1727995993927964591	CMakeFiles/ProblemSolving.dir/Algoritmer++/Swap.cpp.o	526eb613edce8405
@@ -22,3 +22,15 @@
 9	551	1727995824463610542	CMakeFiles/ProblemSolving.dir/Algoritmer++/OnesAndZeros.cpp.o	1075cb936cad81df
 392	712	1727995828822371822	CMakeFiles/ProblemSolving.dir/Algoritmer++/str(n)cpy_2.cpp.o	264381399916736c
 629	1032	1727995994540519994	CMakeFiles/ProblemSolving.dir/Algoritmer++/test.cpp.o	9b0905044413386d
+6	171	1728732332683184825	CMakeFiles/ProblemSolving.dir/Algoritmer++/BST_2.cpp.o	5c6959c233abf18e
+7	172	1728732332683552203	CMakeFiles/ProblemSolving.dir/Algoritmer++/BST.cpp.o	138cf5c5da196fa
+6	670	1728732332682887323	CMakeFiles/ProblemSolving.dir/Algoritmer++/anothaOne.cpp.o	919b30cf2b469a1c
+6	671	1728732332682661196	CMakeFiles/ProblemSolving.dir/Algoritmer++/anothaOne_2.cpp.o	a3e2cb794e6ab6e9
+5	719	1728732332682091525	CMakeFiles/ProblemSolving.dir/Algoritmer++/2022-2.cpp.o	53fae7c8b4c52614
+4	737	1728732332681032933	CMakeFiles/ProblemSolving.dir/Algoritmer++/2022-2_2.cpp.o	c17a4d29d4a71f21
+671	1288	1728732333348281306	CMakeFiles/ProblemSolving.dir/Algoritmer++/Dijkstra.cpp.o	7042867ccf896950
+670	1288	1728732333346906378	CMakeFiles/ProblemSolving.dir/Algoritmer++/Dijkstra_2.cpp.o	ac200cbf5df7fd08
+8	400	1728732340159894299	CMakeFiles/ProblemSolving.dir/Algoritmer++/lenstr_2.cpp.o	111e1bbb14452b7d
+8	412	1728732340160074259	CMakeFiles/ProblemSolving.dir/Algoritmer++/lenstr.cpp.o	fb9f21c5510e8b49
+400	935	1728732340551865088	CMakeFiles/ProblemSolving.dir/Algoritmer++/newlabsearch_2.cpp.o	6627c7b2b6f93cd3
+412	938	1728732340564005729	CMakeFiles/ProblemSolving.dir/Algoritmer++/newlabsearch.cpp.o	aa523118223621f0

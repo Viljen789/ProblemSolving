@@ -369,4 +369,5 @@ add_executable(ProblemSolving
     "Tilfeldige oppgaver/tip.cpp"
         LeetCodeØving/mergelinkedlist.cpp
         LeetCodeØving/test.cpp
+        CTF/Reverse100.c
 )

@@ -430,6 +430,30 @@
 				360,
 				361
 			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/Users/vilje/Desktop/Studie/ProblemSolving/NIO"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/vilje/Desktop/Studie/ProblemSolving/NIO/NIO"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				362
+			]
 		}
 	],
 	"id" : "ProblemSolving::@6890427a1f51a3e7e1df",
@@ -816,7 +840,8 @@
 				358,
 				359,
 				360,
-				361
+				361,
+				362
 			]
 		},
 		{
@@ -2998,6 +3023,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "LeetCode\u00d8ving/test.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "CTF/Reverse100.c",
 			"sourceGroupIndex" : 0
 		}
 	],

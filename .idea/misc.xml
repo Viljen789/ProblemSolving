@@ -14,8 +14,9 @@
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=B8C148A7BD3562488391CEC28E4784D1/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=B8C148A7BD3562488391CEC28E4784D1/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue" value="Everywhere" type="string" />
   </component>
-  <component name="CMakeWorkspace">
-    <contentRoot DIR="$PROJECT_DIR$" />
+  <component name="CMakePythonSetting">
+    <option name="pythonIntegrationState" value="YES" />
   </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
