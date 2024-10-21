@@ -11,7 +11,7 @@ public:
 
         for(int i = 0; i<n; i++){
             int rest = 0;
-            if(gas[i]&&gas[i]!=cost[i]){
+            if(gas[i]>cost[i]){
                 for(int j = 0; j<n; j++){
                     rest += gas[(i+j)%n]-cost[(i+j)%n];
                     if(rest<0)break;
