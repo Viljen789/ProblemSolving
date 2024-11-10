@@ -7,9 +7,13 @@
 
 
 using namespace std;
-
+#include <random>
 #pragma GCC optimize("Ofast,unroll-loops") 
 #pragma GCC target("avx,avx2,fma") 
+// Add this line:
+#pragma GCC diagnostic ignored "-Wc++11-extensions"
+
+// ... rest of your code ...
 
 template<typename A, typename B> ostream& operator<<(ostream &os, const pair<A, B> &p) { return os << '(' << p.first << ", " << p.second << ')'; }
 template<typename T_container, typename T = typename enable_if<!is_same<T_container, string>::value, typename T_container::value_type>::type> ostream& operator<<(ostream &os, const T_container &v) { os << '{'; string sep; for (const T &x : v) os << sep << x, sep = ", "; return os << '}'; }
@@ -42,6 +46,7 @@ mt19937 RNG(chrono::steady_clock::now().time_since_epoch().count());
 
 void solve() {
     // Add your solution here
+    cout << "HELLO WORLD" << endl;
     
 }
 
@@ -53,9 +58,11 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
     int tc = 1;
+    cout << "HELLO"<<endl
     //cin >> tc;
-    for (int t = 1; t <= tc; t++) {
-        // cout << "Case #" << t << ": ";
-        solve();
-    }
+    // for (int t = 1; t <= tc; t++) {
+    //     // cout << "Case #" << t << ": ";
+    //     solve();
+    // }
+    return 0;
 }

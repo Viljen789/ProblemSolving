@@ -1,1 +1,8 @@
-0 1
+YES
+YES
+YES
+NO
+YES
+NO
+YES
+YES
