@@ -1,4 +1,4 @@
-# ProblemSolving
+# ProblemSolving with most of the problems solved related to practicing for competitions. Leetcode solutions underneath, provided by the [LeetHub](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en) chrome extension 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
